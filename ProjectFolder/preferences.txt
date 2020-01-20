@@ -1,0 +1,8 @@
+======[CONTROLS]=====
+UP=87
+DOWN=83
+LEFT=65
+RIGHT=68
+JUMP_DODGE=32
+SHEATHE=88
+=====================
